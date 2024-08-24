@@ -3,9 +3,9 @@
 Infelizmente o programa ficou sem a arte estar implementada com uma engine de jogo.
 Ademais na parte de backend foi feito um protótipo de um banco de dados para os usuários do jogo com criptografia de senha.
 Grupo:
-Edvaldo Dantas - Desenvolvedor BackEnd e Arte
-Jefferson Tiago - Desenvolvedor Full
-George Antônio - Desenvolvedor Full
+Edvaldo Dantas - Desenvolvedor BackEnd e Arte /
+Jefferson Tiago - Desenvolvedor Full /
+George Antônio - Desenvolvedor Full /
 
 CENÁRIO
 ![cenario](https://github.com/user-attachments/assets/424165ba-bb2a-4047-8eed-058c4bc341b7)
