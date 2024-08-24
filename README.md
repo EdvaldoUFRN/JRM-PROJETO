@@ -1,6 +1,6 @@
 [GDD](https://github.com/EdvaldoUFRN/JRM-PROJETO/blob/main/GDD_WizardsDuel.pdf)
 //
-[VIDEO](https://drive.google.com/drive/u/0/folders/1NNBcw9ujatlEvlT-5xERTTxFUF0lLb9k?q=sharedwith:public%20parent:1NNBcw9ujatlEvlT-5xERTTxFUF0lLb9k%20type:video](https://drive.google.com/drive/folders/1NNBcw9ujatlEvlT-5xERTTxFUF0lLb9k?usp=share_link))
+[VIDEO]([https://drive.google.com/drive/u/0/folders/1NNBcw9ujatlEvlT-5xERTTxFUF0lLb9k?q=sharedwith:public%20parent:1NNBcw9ujatlEvlT-5xERTTxFUF0lLb9k%20type:video](https://drive.google.com/drive/folders/1NNBcw9ujatlEvlT-5xERTTxFUF0lLb9k?usp=share_link)](https://drive.google.com/file/d/1EaemWEuHRTJ4VZ46VfFbWwSV5-YYYweW/view?usp=sharing))
 Infelizmente o programa ficou sem a arte estar implementada com uma engine de jogo.
 Ademais na parte de backend foi feito um protótipo de um banco de dados para os usuários do jogo com criptografia de senha.
 Grupo:
